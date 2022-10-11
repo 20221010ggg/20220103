@@ -68,6 +68,27 @@
 
 ```
 ### 超链接
-[知乎](https://www.zhihui.com "点击进入知乎")
+[知乎](https://www.zhihu.com "点击进入知乎")
+
+###图片插入
+
+**图片地址分为网络图片和本地图片，一般本地图片的地址是磁盘地址（c/user/desktop) 网络图片带有网络地址（http：//。。。。）**
+
+[图片](C:\Users\13041\Desktop\659a6944c291c08c35ab5fef3bb411cc.jpeg)
+
+
+[图片](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F8%2F549cf5201acb9.jpg&refer=http%3A%2F%2Fpic1.win4000.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1668080106&t=c06a01d7f82590dffd43e24813d3438c)
+
+图片URL地址生成，一定要将图片变成网络图片，具备网络地址
+
+### 凸显效果：
+
+在此行中重点突出显示‘关键字’<br>
+
+
+
+
+
+
 
 
